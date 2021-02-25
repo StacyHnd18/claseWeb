@@ -1,0 +1,25 @@
+body {
+    background-color: seashell;
+}
+.estilo1 {
+
+      background-color: rgba(0, 255, 55, 0.664);
+      color: rgba(47, 0, 255, 0.904);
+      padding: 1em;
+      margin: 2em;
+
+
+    border: red Spx solid;
+    border: 3px solid red;
+    border-radius: 22px;
+
+}
+h1 {
+    font-size: 33px;
+    color: blue;
+    font-style: oblique;
+    font-family: 'open sans';
+    
+
+}
+     
