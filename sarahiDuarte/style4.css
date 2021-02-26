@@ -1,0 +1,99 @@
+body{
+    background:black;
+}
+p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.blanco{
+    color: white;
+}
+.verde{
+    color: green;
+}
+.verde-azulado{
+    color: teal;
+}
+.rojo{
+    color: red;
+}
+h1{
+    color: white;padding: 1em;
+}
+h3{
+    color: white;
+}
+
+.verde a:link {
+    color: green; 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+  
+.verde  a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+ .verde a:hover {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+ .verde a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  .verde-azulado a:link {
+    color:aqua; 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+  
+.verde-azulado  a:visited {
+    color:rgba(0, 255, 255, 0.507);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+ .verde-azulado a:hover {
+    color: rgb(0, 98, 128);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+ .verde-azulado a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  .rojo a:link {
+    color: red; 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+  
+.rojo  a:visited {
+    color:red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+ .rojo a:hover {
+    color:red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+ .rojo a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
