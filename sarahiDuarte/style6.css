@@ -1,0 +1,25 @@
+body{
+    background-color:beige ;
+padding: 2em;
+}
+h1{
+    font-size:33px;
+    color:purple;
+    font-style: courier;
+    font-family: 'courier';
+  }  
+ h2 {
+    border: red 6px solid;
+    border: 3px solid red;
+    background-color:rgb(255, 157, 0);
+    border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px; 
+}
+h3{
+    border: red 5px solid;
+    border: 3px solid red;
+    background-color:rgb(174, 223, 13);
+    border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+
+}

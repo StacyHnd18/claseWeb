@@ -1,0 +1,30 @@
+body{
+    background-color:pink ;
+}
+
+      
+         h1 {
+               font-size: 33px;
+               color:red;
+               font-style: arial;
+               font-family: 'arial';
+         }
+h2{
+               font-size: 33px;
+               color:green;
+               font-style: helvetica;
+               font-family: 'arial';
+
+}
+h3{
+    font-size: 33px;
+               color:purple;
+               font-style: times;
+               font-family: 'times';
+}
+h4{
+    font-size: 33px;
+               color:blue;
+               font-style: courier ;
+               font-family: 'courier';
+}
