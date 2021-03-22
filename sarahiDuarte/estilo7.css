@@ -1,0 +1,100 @@
+body{
+    background-color:black;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    margin: 2em;  
+}
+p{
+    color: white;
+    text-align: center;
+   
+}
+h2{
+    float:right;
+    color: white;
+
+}
+h4{
+    color: white;
+    margin-left: 10em;
+    padding: 10px;
+   
+}
+h5{
+font-size: 50px;
+color: white;
+text-align: center;
+}
+ul{
+    list-style: none;
+    
+}
+button{
+   width: 15em;
+   height: 4em;
+   
+}
+li{
+    float: right;
+    margin:30px;
+    padding: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    margin: 120px;
+    width: 350px; text-align: left;
+   
+}
+img{
+    width:350px;
+    margin: 30px;
+}
+img{
+    width: 300px;
+    padding: 3px;
+    }
+    img{
+        width:350px;
+       }
+p{
+   font-family: sans-serif;
+   height: 50px;
+}
+
+
+.container{
+    margin: 50px;
+    padding:100px;
+}
+   
+    
+
+h3{
+    color: white;
+    float: right;
+   
+   
+
+}
+h6{
+    margin: 100px;
+    font-size: 30px;
+    font-family:Arial;
+    color: white;
+}
+text{
+     font-size: 20px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    float: right;
+
+
+
+
+}
+
